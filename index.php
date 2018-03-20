@@ -85,7 +85,7 @@
             }
             </pre>
             <p>
-                If you're really interestedin hacking this page, it's also available on <a href="https://github.com/nrosvall/sp">Github</a>.
+                If you're really interested in hacking this page, it's also available on <a href="https://github.com/nrosvall/sp">Github</a>.
             </p>
             <hr>
             <p>
