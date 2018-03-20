@@ -1,0 +1,8 @@
+Secure password creator written in PHP. Should run on every server with PHP
+support. For random_int() to work you will need at least PHP version 7.
+
+For older versions of PHP you may use this implementation of random_int():
+https://github.com/paragonie/random_compat
+
+Secure password creator is public domain.
+
