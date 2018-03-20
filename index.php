@@ -84,6 +84,9 @@
                 return $pass;
             }
             </pre>
+            <p>
+                If you're really interestedin hacking this page, it's also available on <a href="https://github.com/nrosvall/sp">Github</a>.
+            </p>
             <hr>
             <p>
                 Copyright &copy; 2018 Niko Rosvall
